@@ -2,7 +2,7 @@
 ---
 https://github.com/hakimel/reveal.js
 
-```
+```sh
 npm install
 npm start
 curl http://localhost:8000
@@ -65,8 +65,22 @@ Reveal.initalize({
   minScale: 0.2,
   maxScale: 1.5
 });
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ```
+
 ```
 
