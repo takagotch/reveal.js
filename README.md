@@ -80,7 +80,7 @@ Reveal.initalize({
 
 ```
 
-```
+```js
 
 ```
 
